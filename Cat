@@ -1,0 +1,6 @@
+Public class Cat {
+void cat() {
+System.out.println("i'm a cat");
+}
+
+}
